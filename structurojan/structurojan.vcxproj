@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{b10c3d3a-4100-482b-8d1f-b8cb68e64ec3}</ProjectGuid>
-    <RootNamespace>structureactivity</RootNamespace>
+    <ProjectGuid>{cc8df160-5a6a-49bc-b94c-741178106015}</ProjectGuid>
+    <RootNamespace>structurojan</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,8 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="FileName.cpp" />
-    <ClCompile Include="structureactivity.cpp" />
+    <ClCompile Include="structurojan.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

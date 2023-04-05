@@ -23,7 +23,7 @@ int main()
 	cout << "Masukan Umur = ";
 	cin >> mhs.umur;
 
-	cout << "nNIM = " << mhs.NIM;
+	cout << "//nNIM = " << mhs.NIM;
 	cout << "nNama = " << mhs.Nama;
 	cout << "nAlamat = " << mhs.Alamat;
 	cout << "nUmur = " << mhs.umur;

@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="structureactivity.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="FileName.cpp">
+    <ClCompile Include="structurojan.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
